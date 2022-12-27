@@ -43,8 +43,7 @@
 
 <h1>4. GitHub </h1>
 
-                > Creta new repos
-                > Upload your all program in github.
+                > Upload your all program in github with output screen shot.
 
 ># <u>Unit-5</u>
 
