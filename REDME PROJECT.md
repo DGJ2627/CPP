@@ -1,3 +1,107 @@
+# PR- 1 (FUNDAMENTAL BOOSTER)
+
+<u>**Aim 1**</u> :WAP to check given string is numeric or not.
+
+<u>**Program File**</u> : pr1-1.cpp
+
+<u>**Output**</u> :
+
+<u>**Aim 2**</u> :WAP to find leap years from 2000 to 3000. 
+
+<u>**Program File**</u> : pr1-2.cpp
+
+<u>**Output**</u> :
+
+<u>**Output**</u> :
+
+<u>**Aim 3**</u> :WAP to cinvert given string into toggle case.
+
+<u>**Program File**</u> : pr1-3.cpp
+
+<u>**Output**</u> :
+
+<u>**Aim 4**</u> :WAP to check if a given character is vowel or consonant.
+
+<u>**Program File**</u> : pr1-4.cpp
+
+<u>**Output**</u> :
+
+<u>**Aim 5**</u> :WAP to find square root if given numbera from array elements.
+
+<u>**Program File**</u> : pr1-5.cpp
+
+<u>**Output**</u> :
+
+<u>**Aim 6**</u> :WAP to generate cube of given 5 number and make an array of that genearated cubes. 
+
+<u>**Program File**</u> : pr1-6.cpp
+
+<u>**Output**</u> :
+
+================================================================
+
+# PR- 2 (INLINER)
+
+<u>**Aim 1**</u> :WAP to pass function as an argument to a function.
+
+<u>**Program File**</u> : pr2-1.cpp
+
+<u>**Output**</u> :
+
+<u>**Aim 2**</u> :WAP to swap elements of two integer arrays using user define function.
+
+<u>**Program File**</u> : pr2-2.cpp
+
+<u>**Output**</u> :
+
+<u>**Aim 3**</u> :WAP to find factorial using recursion.
+
+<u>**Program File**</u> : pr2-3.cpp
+
+<u>**Output**</u> :
+
+<u>**Aim 4**</u> :WAP to illustrate the use of inline function by creating a function which prints a multiplication table of given number.
+
+<u>**Program File**</u> : pr2-4.cpp
+
+<u>**Output**</u> :
+
+================================================================
+
+# PR- 3 (THE NEW ERA)
+
+<u>**Aim 1**</u> :WAP to create a class to read and add two distance. 
+
+<u>**Program File**</u> : pr3-1.cpp
+
+<u>**Output**</u> :
+
+<u>**Aim 2**</u> :WAP to creat a class to read and add two times.
+
+<u>**Program File**</u> : pr3-2.cpp
+
+<u>**Output**</u> :
+
+<u>**Aim 3**</u> :WAP to creat class to read time in seconds and convert into time in (HH:MM:SS) format.
+
+<u>**Program File**</u> : pr3-3.cpp
+
+<u>**Output**</u> :
+
+<u>**Aim 4**</u> :WAP to creat a class which read and print house detalis along with room detalis.
+
+<u>**Program File**</u> : pr3-4.cpp
+
+<u>**Output**</u> :
+
+<u>**Aim 5**</u> :WAP which illustrate the use of public and private access modifiers.
+
+<u>**Program File**</u> : pr3-5.cpp
+
+<u>**Output**</u> :
+
+================================================================
+
 # PR- 4(BUILDER)
 
 <u>**Aim 1**</u> :Write a program to create a class Employee with setter and getter. Which have fields like id, name, role, salary, experience, address, email and contact. Get 5 records.
