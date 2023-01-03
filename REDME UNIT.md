@@ -7,32 +7,32 @@
             2.OOP -> Object Oriented Programming.
 
     History of C++ :
-            > Developed by Bjarne Stroustrup.
-            > In bell laboratories.
-            > IN 1980.
+            -> Developed by Bjarne Stroustrup.
+            -> In bell laboratories.
+            -> IN 1980.
 
 ># <u>Unit-2</u>  
 
 <h1>2. EXPRESSIONS AND FUNCTIONS </h1>
 
         Special Assigenment Oprators.
-            > Chained Assigenment Oprators.
-            > Embedded Assigenment Oprators.
-            > Compond Assigenment Oprators.
+            -> Chained Assigenment Oprators.
+            -> Embedded Assigenment Oprators.
+            -> Compond Assigenment Oprators.
 
 ># <u>Unit-3</u> 
 
 <h1>3. OOP CONCEPT </h1>
 
-        > Definition OOP :
+        -> Definition OOP :
 
-            > It is one type of concept.
-            > it is a concept in which code becomes well               
+            -> It is one type of concept.
+            -> it is a concept in which code becomes well               
             structrized , well organized and in creases it's
             resusability.
-            > every process will be done using Object. 
+            -> every process will be done using Object. 
        
-        > 4 Principles of OOP :-
+        -> 4 Principles of OOP :-
 
             1.Encapsulation (To combine).
             2.Inheritence (to share).
@@ -43,7 +43,7 @@
 
 <h1>4. GitHub </h1>
 
-                > Upload your all program in github with output screen shot.
+                -> Upload your all program in github with output screen shot.
 
 ># <u>Unit-5</u>
 
@@ -126,3 +126,63 @@
                                 using scope resolution operataor.
                         - perement Solution :
                                 using virtual function.
+                                
+# <u>Unit-7</u>
+
+<h1>7. Polymorphism  </h1>
+
+        What is Polymorphism ? 
+                Polymorphism is a method where we can creat multiple 
+                formation or structure of single method.
+
+        -> polymorphism is combinaition of two greek word:
+                -Poly   = multiple
+                -Morphs =structure,behaviour,forms.
+
+        -> Two type :- 
+                        1. Run time:
+                                (i) method overriding.
+                                (ii) Virtuel function.
+                        2. Compile time:
+                                (i) method overloading.
+                                (ii) oprator overloading.
+
+        Method Overloading : 
+                - When we creat same method with multiple parameters in 
+                same class , it's called method overloading.
+
+        Run :- 
+                1.class must be same.
+                2.name must be same of all method.
+                3.parameters must be different of all methos.
+
+        Method overriding :
+                - When we recreat the same method in derived (child) class 
+                with same parameters it's called method overriding.
+        Run :-
+                1.class must be derived.
+                2.name must be same of all methods.
+                3.parameters must be same of all methods.  
+        
+        -> Different between Method Overloading & Method Overridng :- 
+                                        Class      Name    Parameters
+                                        ========|=========|===========
+                Method Overloading :    same    |   same  |  diffrent
+                                        ========|=========|===========
+                Method Overridng   :    derived |   same  |  same
+                                        ========|=========|===========
+
+        -> Signature :- 
+                        Name :
+                        Parameters :
+                        Return data type :
+
+        -> Opertor Overloading : 
+                        - it is concpt in which we can performs 
+                        mathemethical or logical oprations between objects 
+                        of same class.
+                
+                Two types :- 
+                             1.Unary opertor.
+                             2.Bianry oprator.                                
+                                
