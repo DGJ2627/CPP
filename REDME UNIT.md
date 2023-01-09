@@ -184,5 +184,38 @@
                 
                 Two types :- 
                              1.Unary opertor.
-                             2.Bianry oprator.                                
+                             2.Bianry oprator.  
+                             
+<h1>8. Data Abtraction </h1>
+
+        -> Hide logic from user.
+        -> prevent user from attribites.
+
+        -> Latin :- abs     : draw
+                    trehere : away
+
+        -> draw away :- to restric.
+
+        -> Two types :- 1.Access modifiers.
+                        2.abtract class  
+                          |
+                          -> Pure virtual funcation.
+                             can't be instanciated.
+
+        -> Pointer object :-
+                        - An object which store an address of another objects.
+                        - pointer objects can be create of same class's 
+                         objects only.
+                        - it can be also created for derived class when 
+                         derived class and base class both have the 
+                         overriden virtual funcation.
+
+        -> Virutal funcation :- 
+                        
+                        - it indicates the single existance of any methods 
+                        to the whole program.
+                        - it can be used to remove ambiguity permenently.
+                        - it must have same name, same parameters, and same 
+                          return data type.
+                        - same as parent class's pure virtual funcation.      
                                 
