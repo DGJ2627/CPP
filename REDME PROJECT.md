@@ -290,6 +290,55 @@ Requirements:
 
 <u>**Output**</u> :![pr5-6](https://user-images.githubusercontent.com/114165275/211322615-ced7dbf3-beeb-4005-a2b5-cd26abbc9a4a.png)
 
+# PR- 6 (HERITAGE)
+
+<u>**Aim 1**</u> :WAP to create a Message class with a constructor that takes a single string with a default value. Create a private member string, and in the constructor simply assign the argument string to your internal string. Create two overloaded member functions called print( ): one that takes no arguments and simply prints the message stored in the object, and one that takes a string argument, which it prints in addition to the internal message.
+
+
+<u>**Program File**</u> :pr6-1
+
+
+<u>**Output**</u> :![pr6-1](https://user-images.githubusercontent.com/114165275/211324182-a5709c82-3310-4245-9480-aa2300b68ce4.png)
+
+
+<u>**Aim 2**</u> :WAP to create a class that contains four member functions, with 0, 1, 2, and 3 int arguments, respectively. Create a main( ) that makes an object of your class and calls each of the member functions. Now modify the class so it has instead a single member function with all the arguments defaulted.
+
+<u>**Program File**</u> :pr6-2
+
+<u>**Output**</u> :![pr6-2](https://user-images.githubusercontent.com/114165275/211324198-bd0758f2-8dda-486a-8f3d-e3ea51e9352b.png)
+
+
+<u>**Aim 3**</u> :WAP which illustrate the use of Method Overriding concept.
+
+
+<u>**Program File**</u> :pr6-3
+
+<u>**Output**</u> :![pr6-3](https://user-images.githubusercontent.com/114165275/211324218-1bfeec86-707e-4f60-9105-4e19340991a4.png)
+
+
+<u>**Aim 4**</u> :WAP for unary increment (++) and decrement (--) operator overloading.
+
+
+<u>**Program File**</u> :pr6-4
+
+<u>**Output**</u> :![pr6-4](https://user-images.githubusercontent.com/114165275/211324250-83e14c5f-8525-4359-a8b7-49972e15d06a.png)
+
+
+<u>**Aim 5**</u> :WAP to add two objects using binary plus (+) operator overloading.
+
+
+<u>**Program File**</u> :pr6-5
+
+<u>**Output**</u> :![pr6-5](https://user-images.githubusercontent.com/114165275/211324262-e02154a3-0f00-4236-ac74-81a27e4d1502.png)
+
+
+<u>**Aim 6**</u> :WAP to add two distances using binary plus (+) operator overloading. 
+
+<u>**Program File**</u> :pr6-6
+
+<u>**Output**</u> :![pr6-6](https://user-images.githubusercontent.com/114165275/211324276-7964b923-467c-44a1-9588-0d3213562e2d.png)
+
+
 
 # PR- 7 (DATA ABSTRACTION)
 
