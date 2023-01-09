@@ -361,7 +361,8 @@ Requirements:
 
 <u>**Program File**</u> :pr8-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr8-1](https://user-images.githubusercontent.com/114165275/211329229-03dfd6c2-c8f8-4472-9ee7-50200009e2c3.png)
+
 
 <u>**Aim 2**</u> :WAP to create a class which illustrate the concept of handling all types of exceptions using general exception.
 
