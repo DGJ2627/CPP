@@ -367,4 +367,5 @@ Requirements:
 
 <u>**Program File**</u> :pr8-2
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr8-2](https://user-images.githubusercontent.com/114165275/211328406-0cf47cf8-e2b7-45e2-829e-11162ae1f247.png)
+
