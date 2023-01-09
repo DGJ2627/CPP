@@ -267,3 +267,20 @@ Requirements:
 <img src="" height = "500px" alt = "unable to load image.">
 
 <img src="" height = "500px" alt = "unable to load image.">
+
+# PR- 7 (DATA ABSTRACTION)
+
+<u>**Aim 1**</u> :WAP to simulate reverse inheritance using virtual function.
+
+<u>**Program File**</u> :pr7-1
+
+<u>**Output**</u> :![pr7-1](https://user-images.githubusercontent.com/114165275/211321199-da9f5570-0f10-4f98-b991-e312ef5e317f.png)
+
+
+<u>**Aim 2**</u> :Create hybrid inheritance and remove ambiguity permanently.
+
+<u>**Program File**</u> :pr7-2
+
+<u>**Output**</u> :<u>**Output**</u> :![pr7-2](https://user-images.githubusercontent.com/114165275/211321230-9a6bf2b8-198c-454a-a0d4-132eb48f78fb.png)
+
+
