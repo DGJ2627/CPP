@@ -110,7 +110,6 @@
 
 <u>**Output**</u> :![pr4-1](https://user-images.githubusercontent.com/114165275/209676549-67cd86e4-cded-468d-80f0-7d1d4258a730.png)
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 2**</u> :Write a program to create a class which Read and print Class, Student details using Two Classes. (Make two classes, create one classe's obj in another class.)
 
@@ -119,7 +118,6 @@
 <u>**Output**</u> :![pr4-2](https://user-images.githubusercontent.com/114165275/209676633-261f970c-ada8-45c4-9908-5dd42dd0525e.png)
 
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 3**</u> :Write a program to create a class Hotel with fields like id, name, type, staff_size, room_size, establish_year, address, rating_type and website. Illustrate the use of encapsulation (strict encapsulation) with this keyword.
 
@@ -128,7 +126,6 @@
 <u>**Output**</u> :
 ![pr4-3](https://user-images.githubusercontent.com/114165275/209676733-edea437a-8c1b-49ab-9dee-065e65ca4284.png)
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 4**</u> :Write a program to create two class HighSchool and College with fields like id, stu_name, stu_roll_no, stu_standard, stu_age, stu_contact, stu_edu_institute_name and stu_address. Make suitable setter and getter with use of static data members.
 
@@ -138,9 +135,7 @@
 <u>**Output**</u> :![pr4-4-2](https://user-images.githubusercontent.com/114165275/209676849-aad76e4e-cfad-4f0d-aae7-4cb7dea836c3.png)
 
 
-<img src="" height = "500px" alt = "unable to load image.">
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 5**</u> :Write a program to create a class which have both static data member and static member function. That class gives details of all states in India.
 
@@ -149,7 +144,6 @@
 <u>**Output**</u> :![pr4-5](https://user-images.githubusercontent.com/114165275/209676873-678347dc-dbf7-4be0-b114-40972194c2cd.png)
 
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 6**</u> :Write a program  to demonstrate example of default constructor or no argument constructor.
 
@@ -157,7 +151,6 @@
 
 <u>**Output**</u> :![pr-4-6](https://user-images.githubusercontent.com/114165275/209676923-9cff2eab-3710-45a0-9989-15c1e3dbfd1f.png)
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 7**</u> :Write a program to demonstrate example of parameterized constructor.
 
@@ -165,7 +158,6 @@
 
 <u>**Output**</u> :![pr-4-7](https://user-images.githubusercontent.com/114165275/209676977-36b1d1f1-b3e2-42cb-a4d7-802abb4d4028.png)
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 8**</u> :Write a program to demonstrate example of copy constructor.
 
@@ -174,7 +166,6 @@
 <u>**Output**</u> :![pr-4-8](https://user-images.githubusercontent.com/114165275/209677017-e333aae9-2e20-4c06-9969-3e7fe16360b4.png)
 
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 9**</u> :Write a program to demonstrate example of destructors.
 
@@ -183,7 +174,6 @@
 <u>**Output**</u> :![pr-4-9](https://user-images.githubusercontent.com/114165275/209677043-a1346bb6-c23b-4428-9301-025b101c95ae.png)
 
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 10**</u> :Write a program to create a class which Set values of data members using default, parameterized and copy constructo
 
@@ -192,7 +182,6 @@
 <u>**Output**</u> :![pr-4-10](https://user-images.githubusercontent.com/114165275/209677096-f95d9fc2-88a1-4bdb-90f9-657a47f8fff8.png)
 
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 11**</u> :Write a program to create a class which illustrate the use of constant object.
 
@@ -201,7 +190,6 @@
 <u>**Output**</u> :![pr-4-11](https://user-images.githubusercontent.com/114165275/209677107-e5026b9c-4f76-414c-a625-65958e00b18b.png)
 
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 12**</u> :Write a program to create a class for student to get and print details of N students. (with use of array of objects)
 
@@ -209,8 +197,6 @@
 
 <u>**Output**</u> :![pr-4-12](https://user-images.githubusercontent.com/114165275/209677135-dc0cb6ef-65d9-4904-9d3f-36850d18292c.png)
 
-
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 13**</u> :Write a program to make Railway Reservation System.
 
@@ -227,10 +213,6 @@ Requirements:
 <u>**Output**</u> :![pr-4-13](https://user-images.githubusercontent.com/114165275/209677167-20637dc5-2bea-44e7-8351-010a61b24ad8.png)
 
 
-<img src="" height = "500px" alt = "unable to load image.">
-
-
-
 <u>**Aim 14**</u> :Write a program to make Supermarket Billing System.
 Requirements:
 
@@ -245,7 +227,6 @@ Requirements:
 <u>**Output**</u> :![pr-4-14](https://user-images.githubusercontent.com/114165275/209677195-2078e31a-b662-4030-b042-6546e4f81e80.png)
 
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 15**</u> :Write a program which perform Addition of members of two different classes using friend Function.
 
@@ -254,7 +235,6 @@ Requirements:
 <u>**Output**</u> :![pr-4-15](https://user-images.githubusercontent.com/114165275/209677212-c75dd4b6-9425-48f6-a108-ad1d16139bea.png)
 
 
-<img src="" height = "500px" alt = "unable to load image.">
 
 <u>**Aim 16**</u> :Write a program  to make Bank Management System.
 
@@ -264,9 +244,52 @@ Requirements:
 
 <u>**Output**</u> :![pr-4-16-2](https://user-images.githubusercontent.com/114165275/209677274-adce9bec-22b1-4f14-9afc-9552ba077e94.png)
 
-<img src="" height = "500px" alt = "unable to load image.">
 
-<img src="" height = "500px" alt = "unable to load image.">
+# PR- 5 (HERITAGE)
+
+<u>**Aim 1**</u> :WAP that defines a shape class with a constructor that gives value to width and height. The define two sub-classes triangle and rectangle, that calculate the area of the shape area (). In the main, define two variables a triangle and a rectangle and then call the area() function in this two varibles.
+
+
+<u>**Program File**</u> :pr5-1
+
+<u>**Output**</u> :![pr5-1](https://user-images.githubusercontent.com/114165275/211322376-191ec6f4-85c7-43ed-95e5-e3eda1885f10.png)
+
+<u>**Aim 2**</u> :WAP with a mother class and an inherited daugther class.Both of them should have a method void display ()that prints a message (different for mother and daugther). In the main define a daughter and call the display() method on it.
+
+<u>**Program File**</u> :pr5-2
+
+<u>**Output**</u> :![pr5-2](https://user-images.githubusercontent.com/114165275/211322470-92912a71-d9b2-4cc1-97bc-7e8e697527e5.png)
+
+
+<u>**Aim 3**</u> : WAP with a mother class animal. Inside it define a name and an age variables, and set_value() function. Then create two bases variables Zebra and Dolphin which write a message telling the age, the name and giving some extra information (e.g. place of origin).
+
+
+<u>**Program File**</u> :pr5-3
+
+<u>**Output**</u> :![pr5-3](https://user-images.githubusercontent.com/114165275/211322509-1f788fb0-8487-4afa-99bc-d1120e38fba2.png)
+
+
+<u>**Aim 4**</u> :WAP to read and print employee information using multiple inheritance.
+
+<u>**Program File**</u> :pr5-4
+
+<u>**Output**</u> :![pr5-4](https://user-images.githubusercontent.com/114165275/211322556-d4d62569-3fd6-4239-b3f4-fe177173701f.png)
+
+
+<u>**Aim 5**</u> :WAP to demonstrate example of hierarchical inheritance to get square and cube of a number.
+
+
+<u>**Program File**</u> :pr5-5
+
+<u>**Output**</u> :![pr5-5](https://user-images.githubusercontent.com/114165275/211322580-aefc01c4-f14c-493c-a1a4-ddc9ca3423aa.png)
+
+
+<u>**Aim 6**</u> :WAP to read and print employee information with use of multilevel inheritance. 
+
+<u>**Program File**</u> :pr5-6
+
+<u>**Output**</u> :![pr5-6](https://user-images.githubusercontent.com/114165275/211322615-ced7dbf3-beeb-4005-a2b5-cd26abbc9a4a.png)
+
 
 # PR- 7 (DATA ABSTRACTION)
 
@@ -283,4 +306,16 @@ Requirements:
 
 <u>**Output**</u> :<u>**Output**</u> :![pr7-2](https://user-images.githubusercontent.com/114165275/211321230-9a6bf2b8-198c-454a-a0d4-132eb48f78fb.png)
 
+# PR- 8 (Terminator)
 
+<u>**Aim 1**</u> :Write a "Garage" class that has a "Car" that is having troubles with its "Motor". Use a function-level try block in the "Garage" class constructor to catch an exception (thrown from the "Motor" class) when its "Car" object is initialized. Throw a different exception from the body of the "Garage" constructor s handler and catch it in main( ).
+
+<u>**Program File**</u> :pr8-1
+
+<u>**Output**</u> :
+
+<u>**Aim 2**</u> :WAP to create a class which illustrate the concept of handling all types of exceptions using general exception.
+
+<u>**Program File**</u> :pr8-2
+
+<u>**Output**</u> :
