@@ -8,7 +8,8 @@ attributes:
 
 <u>**Program File**</u> : 4-1-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![4-1-1](https://user-images.githubusercontent.com/114165275/211997281-670bb34e-4c10-4b4d-9ade-285481171822.png)
+
 
 <u>**Aim 2**</u> : WAP to get and display 5 Customers
 information using encapsulation by including
@@ -16,7 +17,8 @@ below mentioned attributes:
 
 <u>**Program File**</u> : 4-1-2
 
-<u>**Output**</u> :
+<u>**Output**</u> :![4-1-2](https://user-images.githubusercontent.com/114165275/211997305-394ef1f2-951f-4420-bec0-1430b54cdd92.png)
+
 
 # LEC-2.
 
@@ -26,7 +28,8 @@ member by including below mentioned attributes:
 
 <u>**Program File**</u> : 4-2-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![4-2-1](https://user-images.githubusercontent.com/114165275/211997332-b58eee56-a291-4fb8-baa5-79338f4caf7d.png)
+
 
 # LEC-3.
 
@@ -36,7 +39,8 @@ HH:MM:SS.
 
 <u>**Program File**</u> : 4-3-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![4-3-1](https://user-images.githubusercontent.com/114165275/211997346-45a3ffa6-670c-4bbc-b550-1dd0a0b3ec2e.png)
+
 
 # LEC-4.
 
@@ -47,7 +51,8 @@ mentioned attributes:
 
 <u>**Program File**</u> : 4-4-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![4-4-1](https://user-images.githubusercontent.com/114165275/211997381-6ba54998-60b7-43be-a25f-909d1e6c50b8.png)
+
 
 <u>**Aim 2**</u> : WAP to get and display N numbers of Fast Food cafe
 information using encapsulation and use of default
@@ -55,7 +60,8 @@ constructor by including below mentioned attributes:
 
 <u>**Program File**</u> :
 
-<u>**Output**</u> :
+<u>**Output**</u> :![4-4-2](https://user-images.githubusercontent.com/114165275/211997400-bee1b896-72e7-4a95-b782-0a322597f629.png)
+
 
 > <h1>5. Inheritance  </h1>
 
