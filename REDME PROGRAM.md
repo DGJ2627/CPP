@@ -70,7 +70,8 @@ getData() methods
 
 <u>**Program File**</u> : 5-1-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![5-1-1](https://user-images.githubusercontent.com/114165275/211993496-d902bdb1-ecba-4b5b-a3a6-bfbbe363ba3c.png)
+
 
 <u>**Aim 2**</u> : WAP to convert given degree celsius temperature into
 fahrenheit and convert that fahrenheit temperature
@@ -84,7 +85,8 @@ method
 
 <u>**Program File**</u> : 5-1-2
 
-<u>**Output**</u> :
+<u>**Output**</u> :![5-1-2](https://user-images.githubusercontent.com/114165275/211993547-bc7c1961-d00a-4b8a-abdb-41bfc2c9a099.png)
+
 
 # LEC-2.
 
@@ -98,14 +100,16 @@ classes
 
 <u>**Program File**</u> : 5-2-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![5-2-1](https://user-images.githubusercontent.com/114165275/211993585-37af14e9-f8a9-4e1d-857b-ac191d14489f.png)
+
 
 <u>**Aim 2**</u> : WAP to perform four different number’s sum by
 inheriting constructors in hybrid inheritance.
 
 <u>**Program File**</u> : 5-2-2
 
-<u>**Output**</u> :
+<u>**Output**</u> :![5-2-2](https://user-images.githubusercontent.com/114165275/211993608-26a69373-c0a4-4803-a19e-1ee3bd67cc2f.png)
+
 
 > <h1>6. Polymorphism  </h1>
 
@@ -117,14 +121,16 @@ overloading using total 2 classes.
 
 <u>**Program File**</u> : 6-1-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![6-1-1](https://user-images.githubusercontent.com/114165275/211993648-e7dce128-18a6-4d96-840e-5a9906dbe9ac.png)
+
 
 <u>**Aim 2**</u> : WAP to implement method overriding by following
 below mentioned criteria:
 
 <u>**Program File**</u> : 6-1-2
 
-<u>**Output**</u> :
+<u>**Output**</u> :![6-1-2](https://user-images.githubusercontent.com/114165275/211993660-65db1ab8-b236-420d-9a49-c633b566350d.png)
+
 
 # LEC-2.
 
@@ -133,7 +139,8 @@ contains higher value from given 2 numbers.
 
 <u>**Program File**</u> : 6-2-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![6-2-1](https://user-images.githubusercontent.com/114165275/211993675-96ff4e4b-783a-4177-8ac4-f7a2a33d1328.png)
+
 
 # LEC-3.
 
@@ -153,7 +160,8 @@ prevent them to be inherited by its child classes.
 
 <u>**Program File**</u> : 7-1-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![7-1-1](https://user-images.githubusercontent.com/114165275/211993715-40b7347f-1c6f-4f39-8e26-df183b40527e.png)
+
 
 # LEC-2.
 
@@ -162,7 +170,8 @@ using Abstract class such like:
 
 <u>**Program File**</u> : 7-2-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![7-2-1](https://user-images.githubusercontent.com/114165275/211993738-a60f1a53-33c8-4417-b1bd-cbfd4464abbd.png)
+
 
 > <h1>8. EXCEPTION HANDLING </h1>
 
@@ -173,4 +182,5 @@ different types of scenarios:
 
 <u>**Program File**</u> : 8-1-1
 
-<u>**Output**</u> :
+<u>**Output**</u> :![8-1-1](https://user-images.githubusercontent.com/114165275/211993775-706c20e0-2640-4433-bfe8-1c06f6b5d7a4.png)
+
