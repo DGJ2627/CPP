@@ -4,39 +4,46 @@
 
 <u>**Program File**</u> : pr1-1.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr1-1](https://user-images.githubusercontent.com/114165275/212005418-c6b2c848-55d0-440c-a3d9-2da23ce10689.png)
+
 
 <u>**Aim 2**</u> :WAP to find leap years from 2000 to 3000. 
 
 <u>**Program File**</u> : pr1-2.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr1-2-1](https://user-images.githubusercontent.com/114165275/212005494-6ded47ee-44c6-4344-b3ad-94bdee4079d7.png)
 
-<u>**Output**</u> :
+
+<u>**Output**</u> :![pr1-2-2](https://user-images.githubusercontent.com/114165275/212005506-bea0d61d-615e-4f35-a638-6881bb25a85e.png)
+
 
 <u>**Aim 3**</u> :WAP to cinvert given string into toggle case.
 
 <u>**Program File**</u> : pr1-3.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr1-3](https://user-images.githubusercontent.com/114165275/212005527-6498741e-ef25-42af-a044-fc2f793657de.png)
+
 
 <u>**Aim 4**</u> :WAP to check if a given character is vowel or consonant.
 
 <u>**Program File**</u> : pr1-4.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr1-4](https://user-images.githubusercontent.com/114165275/212005594-06add005-80cf-4c8c-b90a-1e3de58c3ce8.png)
+
 
 <u>**Aim 5**</u> :WAP to find square root if given numbera from array elements.
 
 <u>**Program File**</u> : pr1-5.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr1-5](https://user-images.githubusercontent.com/114165275/212005609-e49de54c-15e0-4b00-9a2a-30f0b03cf40d.png)
+
 
 <u>**Aim 6**</u> :WAP to generate cube of given 5 number and make an array of that genearated cubes. 
 
 <u>**Program File**</u> : pr1-6.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr1-6](https://user-images.githubusercontent.com/114165275/212005627-8c860ef3-aa45-496b-a068-d835f101a31f.png)
+
 
 ================================================================
 
@@ -46,25 +53,29 @@
 
 <u>**Program File**</u> : pr2-1.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr2-1](https://user-images.githubusercontent.com/114165275/212005667-eb9d6bd1-d52f-4437-bef7-d34e3dee25d9.png)
+
 
 <u>**Aim 2**</u> :WAP to swap elements of two integer arrays using user define function.
 
 <u>**Program File**</u> : pr2-2.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr2-2](https://user-images.githubusercontent.com/114165275/212005680-27738265-ab85-47a2-b4cd-ef19a243134e.png)
+
 
 <u>**Aim 3**</u> :WAP to find factorial using recursion.
 
 <u>**Program File**</u> : pr2-3.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr2-3](https://user-images.githubusercontent.com/114165275/212005708-76ed96c9-c8a5-44f4-8d54-e9116d301155.png)
+
 
 <u>**Aim 4**</u> :WAP to illustrate the use of inline function by creating a function which prints a multiplication table of given number.
 
 <u>**Program File**</u> : pr2-4.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr2-4](https://user-images.githubusercontent.com/114165275/212005738-dbad16a4-b29e-47f3-834d-b0b94773ad73.png)
+
 
 ================================================================
 
@@ -74,31 +85,36 @@
 
 <u>**Program File**</u> : pr3-1.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr3-1](https://user-images.githubusercontent.com/114165275/212005785-3ed7b62e-4715-4a6c-9fa4-c2f006434f2c.png)
+
 
 <u>**Aim 2**</u> :WAP to creat a class to read and add two times.
 
 <u>**Program File**</u> : pr3-2.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr3-2](https://user-images.githubusercontent.com/114165275/212005806-3e6017a3-1801-4de9-8ba5-75fa4515f400.png)
+
 
 <u>**Aim 3**</u> :WAP to creat class to read time in seconds and convert into time in (HH:MM:SS) format.
 
 <u>**Program File**</u> : pr3-3.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr3-3](https://user-images.githubusercontent.com/114165275/212005831-e3ad8ea0-e09b-4a46-8cd7-70cfde62ce0c.png)
+
 
 <u>**Aim 4**</u> :WAP to creat a class which read and print house detalis along with room detalis.
 
 <u>**Program File**</u> : pr3-4.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr3-4](https://user-images.githubusercontent.com/114165275/212005856-539bbe13-6642-4037-b7f9-8a496a960391.png)
+
 
 <u>**Aim 5**</u> :WAP which illustrate the use of public and private access modifiers.
 
 <u>**Program File**</u> : pr3-5.cpp
 
-<u>**Output**</u> :
+<u>**Output**</u> :![pr3-5](https://user-images.githubusercontent.com/114165275/212005899-3a9159d8-509d-4532-8f9f-a927e73cdaff.png)
+
 
 ================================================================
 
