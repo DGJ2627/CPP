@@ -217,5 +217,29 @@
                         - it can be used to remove ambiguity permenently.
                         - it must have same name, same parameters, and same 
                           return data type.
-                        - same as parent class's pure virtual funcation.      
-                                
+                        - same as parent class's pure virtual funcation.
+                        
+# <u>Unit-9 </u>
+
+<h1>9. EXCEPTION HANDLING </h1>
+        -> imp :- 
+
+                1.Syntax error :- Error
+                2.Logic error  :- Exception
+
+        -> Two block :-
+                1.Try
+                2.Catch
+
+        -> Exception :-
+                        - It's also king of erroe which occueres by logical 
+                        mistake.
+                        - Exception can be called one type of system time 
+                        out or restriction to use some methods.
+                        - It oucceres on compiling time and breaks the 
+                        excecuting flow of compilior.
+
+        -> Error : Compile time , syntax mistake , occueres by developer.
+
+        -> Exception : Run time, Logical mistake, occures by user and  developer.
+                              
