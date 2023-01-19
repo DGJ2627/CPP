@@ -369,7 +369,7 @@ Requirements:
 
 <u>**Program File**</u> :pr7-2
 
-<u>**Output**</u> :<u>**Output**</u> :![pr7-2](https://user-images.githubusercontent.com/114165275/211321230-9a6bf2b8-198c-454a-a0d4-132eb48f78fb.png)
+<u>**Output**</u> :<u>**Output**</u> :![7-2](https://user-images.githubusercontent.com/114165275/213355830-d39e93ef-2bed-4ec1-bb3a-de5a60297e10.png)
 
 # PR- 8 (Terminator)
 
